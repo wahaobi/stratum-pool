@@ -29,7 +29,8 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/wahaobi/node-multi-hashing-yespower.git",
-        "bignum": "0.12.5",
+        "bitcoinjs-lib": "*",
+        "bignum": "*",
         "base58-native": "*",
         "async": "*"
     },
